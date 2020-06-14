@@ -1,5 +1,5 @@
 # Release:
--Programos atliekami darbai:
+- Programos atliekami darbai:
   1) Skaičiuoja, kiek kartų kartojasi kiekvienas žodis tekste, kurį galima rasti text.txt faile:
       - Skaičiuojant žodžius atkreipiamas dėmesys į skyrybos ženklus - jie neįskaičiuojami į žodių sąrašą;
       - Žodžiai, kurie yra apsupti daugiau nei vieno skyrybos ženklo, pvz: ("kelias"), yra išvedami paprastai (t.y. be jokių skyrybos ženklų);
